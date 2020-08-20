@@ -155,7 +155,7 @@ Each member of `datasets` corresponds to the extended CKAN schema documented her
 
 Please note that, for the Berlin Open Data Portal, the `organization` field cannot be used to identify the department which published a dataset! For that, you need to use `author`.
 
-## Example Queries for 
+## Example Queries
 
 Once you have the dump in a local file, you can use `jq` to query it.
 
